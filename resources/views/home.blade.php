@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in Liridon-app) }}
+                    {{ __('You are logged in Liridon-app 1) }}
                 </div>
             </div>
         </div>
